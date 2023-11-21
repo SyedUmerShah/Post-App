@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #2d2d30 !important;
+}
+
+.container {
+    /* border: 2px solid red; */
+    margin-top: 10px;
+}
+
+.create-post {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 600px;
+    background-color: #1e1e1e;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.heading {
+    color: white;
+    font-weight: bold;
+}
+
+#text {
+    width: 500px;
+    height: 300px;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: 20px;
+    text-align: center;
+}
+
+#post-btn {
+    background-color: #007acc;
+    width: 500px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.btn1 {
+    background: rgb(49, 71, 85);
+    background: linear-gradient(142deg, rgba(49, 71, 85, 1) 36%, rgba(38, 160, 218, 1) 74%);
+    width: 35px;
+    height: 35px;
+}
+
+.btn2 {
+    background: rgb(20, 136, 204);
+    background: linear-gradient(156deg, rgba(20, 136, 204, 1) 36%, rgba(43, 50, 178, 1) 74%);
+    width: 35px;
+    height: 35px;
+}
+
+.btn3 {
+    background: rgb(204, 43, 94);
+    background: linear-gradient(152deg, rgba(204, 43, 94, 1) 36%, rgba(117, 58, 136, 1) 74%);
+    width: 35px;
+    height: 35px;
+}
+
+.btn4 {
+    background: rgb(236, 0, 140);
+    background: linear-gradient(126deg, rgba(236, 0, 140, 1) 36%, rgba(252, 103, 103, 1) 74%);
+    width: 35px;
+    height: 35px;
+}
+
+.btn5 {
+    background: rgb(230, 92, 0);
+    background: linear-gradient(143deg, rgba(230, 92, 0, 1) 36%, rgba(249, 212, 35, 1) 74%);
+    width: 35px;
+    height: 35px;
+}
+
+.btn6 {
+    background: rgb(83, 105, 118);
+    background: linear-gradient(151deg, rgba(83, 105, 118, 1) 36%, rgba(41, 46, 73, 1) 74%);
+    width: 35px;
+    height: 35px;
+}
+
+.default {
+    background: rgb(49, 71, 85);
+    background: linear-gradient(142deg, rgba(49, 71, 85, 1) 36%, rgba(38, 160, 218, 1) 74%);
+}
+
+.one {
+    background: rgb(49, 71, 85);
+    background: linear-gradient(142deg, rgba(49, 71, 85, 1) 36%, rgba(38, 160, 218, 1) 74%);
+}
+
+.two {
+    background: rgb(20, 136, 204);
+    background: linear-gradient(156deg, rgba(20, 136, 204, 1) 36%, rgba(43, 50, 178, 1) 74%);
+}
+
+.three {
+    background: rgb(204, 43, 94);
+    background: linear-gradient(152deg, rgba(204, 43, 94, 1) 36%, rgba(117, 58, 136, 1) 74%);
+}
+
+.four {
+    background: rgb(236, 0, 140);
+    background: linear-gradient(126deg, rgba(236, 0, 140, 1) 36%, rgba(252, 103, 103, 1) 74%);
+}
+
+.five {
+    background: rgb(230, 92, 0);
+    background: linear-gradient(143deg, rgba(230, 92, 0, 1) 36%, rgba(249, 212, 35, 1) 74%);
+}
+
+.six {
+    background: rgb(83, 105, 118);
+    background: linear-gradient(151deg, rgba(83, 105, 118, 1) 36%, rgba(41, 46, 73, 1) 74%);
+}
+
+.check{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 600px;
+    background-color: #1e1e1e;
+    padding-top: 10px;
+    padding-bottom: 20px;  
+}
+.p-head{
+    color: white;
+    text-align: left;
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
+}
+.img{
+    width: 40px;
+    margin-left: 40px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.p-body{
+    width: 500px;
+    height: 300px;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: 20px;
+    text-align: center;
+}
